@@ -1,0 +1,10 @@
+yfinance
+phidata==2.7.10
+groq
+python-dotenv
+duckduckgo-search
+fastapi
+uvicorn
+utils
+openai
+youtube_transcript_api
